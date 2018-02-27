@@ -1,0 +1,28 @@
+button{
+ 
+}
+
+
+
+
+#caja{
+
+	width: 80%;
+	margin: 0 auto;
+}
+
+.bloque{
+
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	margin: 10px; 
+}
+
+#contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+
+
+}
